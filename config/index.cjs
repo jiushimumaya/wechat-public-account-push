@@ -1,4 +1,4 @@
-/* eslint-disable */
+/* eslint-disable */{"APP_ID":"wxb58da90a684996ba","APP_SECRET":" b9d77641899cef9ca8be600083d5bc66","IS_SHOW_COLOR":true,"CALLBACK_TEMPLATE_ID":"","CALLBACK_USERS":[{"name":"自己","id":""}],"USERS":[{"name":"99","id":"oA4UF54aPDdeaF12M6_6GzeBd5lM","useTemplateId":"\t8OV27Ln0FhsPYjrYWFGK2anmyqyjRXnpLqZVzpHf5II","province":"河北省","city":"石家庄市","horoscopeDate":"10-06","horoscopeDateType":"今日","openUrl":"https://shuangxunian.github.io/","festivals":[{"type":"生日","name":"生日","date":"10-06","year":"2000"}],"customizedDateList":[{"keyword":"测试","date":"2023-01-19"}]}],"SWITCH":{"weather":true,"holidaytts":false,"CIBA":true,"oneTalk":false,"earthyLoveWords":false,"momentCopyrighting":false,"poisonChickenSoup":false,"poetry":false,"horoscope":true,"birthdayMessage":true}}
 
 /**
  * 此项目配置为方便新人使用，已缩减至最简配置。
@@ -65,3 +65,4 @@ const USER_CONFIG = {
 
 module.exports = USER_CONFIG
 
+{"APP_ID":"wxb58da90a684996ba","APP_SECRET":" b9d77641899cef9ca8be600083d5bc66","IS_SHOW_COLOR":true,"CALLBACK_TEMPLATE_ID":"","CALLBACK_USERS":[{"name":"自己","id":""}],"USERS":[{"name":"99","id":"oA4UF54aPDdeaF12M6_6GzeBd5lM","useTemplateId":"\t8OV27Ln0FhsPYjrYWFGK2anmyqyjRXnpLqZVzpHf5II","province":"河北省","city":"石家庄市","horoscopeDate":"10-06","horoscopeDateType":"今日","openUrl":"https://shuangxunian.github.io/","festivals":[{"type":"生日","name":"生日","date":"10-06","year":"2000"}],"customizedDateList":[{"keyword":"测试","date":"2023-01-19"}]}],"SWITCH":{"weather":true,"holidaytts":false,"CIBA":true,"oneTalk":false,"earthyLoveWords":false,"momentCopyrighting":false,"poisonChickenSoup":false,"poetry":false,"horoscope":true,"birthdayMessage":true}}
